@@ -1,5 +1,13 @@
 fastapi
 uvicorn
-transformers
 torch
-supabase
+torchvision
+torchaudio
+transformers
+faster-whisper
+sentence-transformers
+deep-translator
+python-multipart
+python-dotenv
+huggingface_hub
+ipfshttpclient
