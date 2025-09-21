@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+faster-whisper
+sentence-transformers
+deep-translator
+python-multipart
+python-dotenv
+huggingface_hub
